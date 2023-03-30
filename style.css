@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+h2{
+    color: orangered;
+}
+h4{
+    color: palevioletred;
+}
+ul{
+    color: blue;
+}
+ol{
+    color: blueviolet;
+}
+.startattr{
+    color: chartreuse;
+}
+dt{
+    color: coral;
+}
+dd{
+    color: darkgoldenrod;
+}
